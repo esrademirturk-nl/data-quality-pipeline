@@ -1,1 +1,4 @@
-
+great_expectations
+pydantic
+pandas
+requests
